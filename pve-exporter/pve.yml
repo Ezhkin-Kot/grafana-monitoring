@@ -1,0 +1,5 @@
+default:
+  verify_ssl: false
+  user: ${PVE_USER}
+  token_name: ${TOKEN_NAME}
+  token_value: ${TOKEN_VALUE}
